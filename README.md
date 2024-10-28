@@ -60,7 +60,3 @@ This project contains two primary hash table implementations:
 ## Contributing
 
 Contributions are welcome! To report a bug or suggest an improvement, please open an issue or submit a pull request.
-
----
-
-This `README.md` file should provide clear guidance to users on how to use and contribute to your project.
